@@ -1,0 +1,16 @@
+[
+  {
+    "value": "locate",
+    "synonyms": [
+      "locate",
+      "find"
+    ]
+  },
+  {
+    "value": "find",
+    "synonyms": [
+      "find",
+      "locate"
+    ]
+  }
+]

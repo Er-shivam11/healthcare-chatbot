@@ -1,0 +1,64 @@
+{
+  "id": "1a1a3c1e-2674-445e-905c-eb04559ca0b9",
+  "name": "dengue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1b9144dd-48da-4927-a35c-6b36f186e9ad",
+          "name": "feeling_having_facing",
+          "required": false,
+          "dataType": "@feeling_having_facing",
+          "value": "$feeling_having_facing",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "552e2328-6134-47da-9743-af2be80ea2a6",
+          "name": "Dengue",
+          "required": false,
+          "dataType": "@Dengue",
+          "value": "$Dengue",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You might have Dengue.                                                                                                                            Remedies:                                                                                                                                                 1)Eat papaya as much as you can\n2)Avoid medicine with Aspirin\n3)Take rest\n4)Drink plenty water"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

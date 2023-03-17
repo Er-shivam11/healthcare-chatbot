@@ -1,0 +1,9 @@
+{
+  "id": "e2e02769-b6a7-435d-a926-445a25fdcd1a",
+  "name": "feeling_having_facing",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

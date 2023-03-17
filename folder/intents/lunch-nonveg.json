@@ -1,0 +1,39 @@
+{
+  "id": "6947dd0a-e10e-40ef-a618-ae5e1f1fe482",
+  "parentId": "bfe954be-fb0a-4f19-8d00-4da03ea66707",
+  "rootParentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "name": "lunch-nonveg",
+  "auto": true,
+  "contexts": [
+    "lunch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "health_assistant.health_assistant-custom.lunch-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Boiled Brown Rice-2 katori                                                                                                                                         Red Gram -2 katori                                                                                                                                       Chicken Spinach Masala-2 katori"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

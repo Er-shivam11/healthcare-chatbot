@@ -1,0 +1,26 @@
+[
+  {
+    "value": "feeling",
+    "synonyms": [
+      "feeling",
+      "having",
+      "facing"
+    ]
+  },
+  {
+    "value": "having",
+    "synonyms": [
+      "having",
+      "feeling",
+      "facing"
+    ]
+  },
+  {
+    "value": "facing",
+    "synonyms": [
+      "feeling",
+      "facing",
+      "having"
+    ]
+  }
+]

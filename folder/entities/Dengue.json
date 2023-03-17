@@ -1,0 +1,9 @@
+{
+  "id": "403c3387-3f5d-49ed-a904-230ae6ab459d",
+  "name": "Dengue",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

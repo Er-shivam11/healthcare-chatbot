@@ -1,0 +1,64 @@
+{
+  "id": "66e93ac6-c6b6-4948-bd3d-d39a4d54b62a",
+  "name": "asthma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "symptoms.symptoms-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "106f47db-992b-4b06-bdfb-b5042d5cf2a1",
+          "name": "asthma",
+          "required": false,
+          "dataType": "@asthma",
+          "value": "$asthma",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "230f599b-6ee0-4fa4-a32a-8173d8910fac",
+          "name": "feeling_having_facing",
+          "required": false,
+          "dataType": "@feeling_having_facing",
+          "value": "$feeling_having_facing",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Then you might have Asthma                                                                                                                           Remedies :-\n1)Quit Smoking\n2)Use Bronchodilator"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

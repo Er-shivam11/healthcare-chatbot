@@ -1,0 +1,64 @@
+{
+  "id": "6105c536-0889-495d-b5a8-57a95741bc03",
+  "name": "stomach-infection",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "symptoms.symptoms-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "27f13076-cd89-47c4-822a-3800b41dfd07",
+          "name": "stomach-infections",
+          "required": false,
+          "dataType": "@stomach-infections",
+          "value": "$stomach-infections",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "af75ad99-c143-4422-b1be-f0e713d1b9f6",
+          "name": "feeling_having_facing",
+          "required": false,
+          "dataType": "@feeling_having_facing",
+          "value": "$feeling_having_facing",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You might be feeling weakness and heat in body...                                                                                                                   Remedies :- \n1)Sit in a bath of lukewarm water, which will feel cool when you have a fever. ...\n2)Give yourself a sponge bath with lukewarm water.\n3)Wear light pajamas or clothing.\n4)Try to avoid using too many extra blankets when you have chills.\n5)Drink plenty of cool or room-temperature water.\n6)Eat popsicles."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

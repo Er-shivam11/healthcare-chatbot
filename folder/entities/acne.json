@@ -1,0 +1,9 @@
+{
+  "id": "621e4b95-32af-4d3e-862e-c6747b40c40c",
+  "name": "acne",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

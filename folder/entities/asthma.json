@@ -1,0 +1,9 @@
+{
+  "id": "b61d3a6a-c9f3-43fe-984a-7e4d7ac85b20",
+  "name": "asthma",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

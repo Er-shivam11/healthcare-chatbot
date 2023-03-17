@@ -1,0 +1,67 @@
+[
+  {
+    "id": "57bbd00b-e082-4020-8dc0-94c96dad8374",
+    "data": [
+      {
+        "text": "meri madat karo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c3569d5-6c18-4a7f-892e-c7bd89c880c1",
+    "data": [
+      {
+        "text": "main madat chahte hoon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba469a81-b84a-45f5-a5f1-fc0e43ccb8ce",
+    "data": [
+      {
+        "text": "mughe apse madat chahiye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d51ba4d1-2217-48b0-8f18-9136fea735df",
+    "data": [
+      {
+        "text": "appka kya hal hai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b66b0afa-f6a9-4371-8fad-75ea808a5c40",
+    "data": [
+      {
+        "text": "Aap kaise ho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

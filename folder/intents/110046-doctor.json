@@ -1,0 +1,39 @@
+{
+  "id": "3014b46f-785d-4ed1-a9bf-7e85ecc4aaf0",
+  "parentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "rootParentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "name": "110046-doctor",
+  "auto": true,
+  "contexts": [
+    "doctors-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "doctors.doctors-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Dr.  R.K. Gupta Phone Number  011 28525989.                                                                                                                                               \n Dr.O.P.GuptaPhone Number 09891509626"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

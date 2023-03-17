@@ -1,0 +1,242 @@
+[
+  {
+    "id": "3f29c380-dc87-48bb-8430-03227707d8bc",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "feeling",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae3fa3d3-2e7f-4929-945c-1ff3f71bc1e9",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      },
+      {
+        "text": " what can i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e81bcde2-a2d7-40cf-9472-649c37cd5e9d",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      },
+      {
+        "text": " what can i do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39c5402c-80bb-4839-b9ac-228d065d6f4d",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3bb95644-5cde-4065-ae61-2db3b53e85f2",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "facing",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ae82337-bf5a-4033-82a2-89d8da8b0ada",
+    "data": [
+      {
+        "text": "im ",
+        "userDefined": false
+      },
+      {
+        "text": "facing",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c50ee24-b478-46df-a5c6-ef329afaffdc",
+    "data": [
+      {
+        "text": "im ",
+        "userDefined": false
+      },
+      {
+        "text": "having",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "478a4f32-b3db-4fca-a07e-91d9d03de496",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "having",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "stomach-infections",
+        "meta": "@stomach-infections",
+        "alias": "stomach-infections",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

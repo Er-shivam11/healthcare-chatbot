@@ -1,0 +1,28 @@
+[
+  {
+    "id": "49993139-083b-4995-8d89-364eeb329111",
+    "data": [
+      {
+        "text": "night food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b832242-f516-4825-ade7-988b558dcd28",
+    "data": [
+      {
+        "text": "dinner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

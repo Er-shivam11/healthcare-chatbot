@@ -1,0 +1,39 @@
+{
+  "id": "e7512c1d-7a13-4e13-8832-16d8142b2da8",
+  "parentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "rootParentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "name": "110040-doctor",
+  "auto": true,
+  "contexts": [
+    "doctors-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "doctors.doctors-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "i)Dr.Rajesh Goel (kidney specialist)          - 09818235608\n            ii)Dr.Pankaj Garg (pediatrician)              - 011 27040428\n            iii)Dr.Neera Jain (obstetrician-gynecologist) - 011 27314015\n            iv)Dr.Vardaan (Dermatologist)                 - 09999365805"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "caa4c684-d328-4bf7-a2c5-6a1c7e3ed8c9",
+  "name": "stomach-infections",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ef5e15a9-2ded-4971-a12a-4995e73d8eeb",
+  "parentId": "cfa71807-ae20-477e-9d2a-263b4912e331",
+  "rootParentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "name": "dinner - veg",
+  "auto": true,
+  "contexts": [
+    "dinner-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "health_assistant.health_assistant-custom.dinner-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Jeera Rice-1 katori                                                                                                                                         Red Gram Dal-2 katori                                                                                                                                         Muli Ka Kas-1 bowl                                                                                                                                         Cabbage Pea Subzi-1 bowl"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

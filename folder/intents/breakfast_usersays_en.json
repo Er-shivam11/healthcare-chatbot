@@ -1,0 +1,41 @@
+[
+  {
+    "id": "b2748a14-c0f1-4d32-a3e4-578ac1e12a8b",
+    "data": [
+      {
+        "text": "morning meal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "581af668-d22e-4330-b021-7f96455d9126",
+    "data": [
+      {
+        "text": "breakfast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb6377c2-0263-4790-a9af-ee55c1b96445",
+    "data": [
+      {
+        "text": "i need suggestions of breakfast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

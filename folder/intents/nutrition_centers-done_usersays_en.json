@@ -1,0 +1,278 @@
+[
+  {
+    "id": "b62b5e2a-8a31-475a-a96d-78749948a411",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " nearest govt nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d165cfbc-a068-4985-af8c-8fdfcb6c5bdc",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " nearest government nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "388b6f34-513f-42e6-ad24-02e7fbcbc258",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " government nutrition center  near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df0d269b-20c2-490f-ab9f-6b1aa148ba5d",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " govt. nutrition ",
+        "userDefined": false
+      },
+      {
+        "text": "near",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c1179a5-7cd3-4de8-9506-ae0ffc2ac598",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " nutrition center ",
+        "userDefined": false
+      },
+      {
+        "text": "near",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca25bc37-8c4a-4987-a673-d7d38716270c",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e6378ec-cd97-4917-9d28-fdf65a66bebd",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " govt nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f99ff8d0-2d96-4ba8-a5a1-b0f9c2902491",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " government nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b1cb14ae-49a1-433b-a0e7-f6c89bd72f9a",
+    "data": [
+      {
+        "text": "nearest government nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76cb3121-8e63-4947-ba5d-7b0f2c9c2938",
+    "data": [
+      {
+        "text": "nearest govt. nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90ef0660-8e07-4cfb-9ad9-88d1d0084a6a",
+    "data": [
+      {
+        "text": "nearest govt nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2accad06-b01e-4b3b-bc4e-0266efd35704",
+    "data": [
+      {
+        "text": "locate the nearest govt. nutrition centers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2265658b-ffa6-47fe-88ad-c8bcd22eb2ef",
+    "data": [
+      {
+        "text": "locate the nearest govt nutrition centers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c5a6605-ff4b-4c1d-9abe-447d68b83d4e",
+    "data": [
+      {
+        "text": "locate the nearest government nutrition centers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8e2a8c3-c4cb-4f8f-a97d-58eed592046e",
+    "data": [
+      {
+        "text": "locate the nearest government nutrition center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2b33a4c-8ffd-448f-aeb2-82f0ad33f36f",
+    "data": [
+      {
+        "text": "locate the nearest nutrition centers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

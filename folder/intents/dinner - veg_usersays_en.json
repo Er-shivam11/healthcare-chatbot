@@ -1,0 +1,28 @@
+[
+  {
+    "id": "89bfaa16-d183-4335-b1bb-43e6f5bb4d7a",
+    "data": [
+      {
+        "text": "vegetarian",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecf125ad-edc3-407c-ac94-7eddf99f860c",
+    "data": [
+      {
+        "text": "veg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

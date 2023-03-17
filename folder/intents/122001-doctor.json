@@ -1,0 +1,39 @@
+{
+  "id": "b5d854ab-9a30-4eba-90c7-6fa2701b66a8",
+  "parentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "rootParentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "name": "122001-doctor",
+  "auto": true,
+  "contexts": [
+    "doctors-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "doctors.doctors-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "i)Dr.Suruchi Puri    PNo    - 09868080340\nii)Dr.Rahul Sharma  PNo. - 07838146376"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

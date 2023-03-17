@@ -1,0 +1,185 @@
+[
+  {
+    "id": "30a7c9d8-4d58-4d3b-ac8d-1d54826c237a",
+    "data": [
+      {
+        "text": "locate",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " upcoming free health camps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f048b0d6-bce0-476d-97ce-6a4c58f9fe67",
+    "data": [
+      {
+        "text": "locate",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " upcoming free health camps ",
+        "userDefined": false
+      },
+      {
+        "text": "near",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa785f8b-c583-4c6f-8a5a-dc8c26c5449f",
+    "data": [
+      {
+        "text": "locate",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " free health camps ",
+        "userDefined": false
+      },
+      {
+        "text": "near",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7857cd4d-2a68-4e09-8fec-c06ff8df9cbd",
+    "data": [
+      {
+        "text": "locate",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": true
+      },
+      {
+        "text": " free health camps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8e7fb08-67a0-4cfa-899e-eb5351d333c8",
+    "data": [
+      {
+        "text": "upcoming health camps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b19257ed-c853-458e-9118-819b9286e181",
+    "data": [
+      {
+        "text": "upcoming free health camps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ad2078e-e84e-4af2-9dbd-ce325f70f69c",
+    "data": [
+      {
+        "text": "tell me where is upcoming free health camp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71c9cbdf-fe89-4ac3-9b7a-4eab732fbe30",
+    "data": [
+      {
+        "text": "health camps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93091d90-6862-4543-bde2-388fd1d147f7",
+    "data": [
+      {
+        "text": "camps near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74d222ee-8a93-450a-aa27-d0b5ecf7c09d",
+    "data": [
+      {
+        "text": "free health camps near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4c7b063-f6ae-4810-b4a5-64bba8c1cf17",
+    "data": [
+      {
+        "text": "free health camps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

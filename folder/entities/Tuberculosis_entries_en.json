@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Tiredness",
+    "synonyms": [
+      "Tiredness"
+    ]
+  },
+  {
+    "value": "Losing weight",
+    "synonyms": [
+      "Losing weight"
+    ]
+  },
+  {
+    "value": "Fever",
+    "synonyms": [
+      "Fever"
+    ]
+  },
+  {
+    "value": "Cough",
+    "synonyms": [
+      "Cough"
+    ]
+  }
+]

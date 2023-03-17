@@ -1,0 +1,64 @@
+{
+  "id": "e7bde467-a6d1-4d3c-a8e4-f80dfda1ff16",
+  "name": "heatstroke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a079f861-d7ea-471e-8c59-91003c84bbac",
+          "name": "feeling_having_facing",
+          "required": false,
+          "dataType": "@feeling_having_facing",
+          "value": "$feeling_having_facing",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2aba75f0-ba0e-48fa-a52e-297174ceedf7",
+          "name": "heatstroke",
+          "required": false,
+          "dataType": "@heatstroke",
+          "value": "$heatstroke",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You might have heatstroke                                                                                                                                                                                 Remedies:                                                                                                                                                     1)Use evaporation cooling technique\n2)pack you with ice and cooling blanket\n3)Give you medication to stop you shivering"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

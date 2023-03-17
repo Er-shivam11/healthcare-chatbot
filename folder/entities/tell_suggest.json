@@ -1,0 +1,9 @@
+{
+  "id": "468fcd69-f712-4be2-a1da-d6151acd9fee",
+  "name": "tell_suggest",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

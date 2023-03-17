@@ -1,0 +1,9 @@
+{
+  "id": "c55c5354-3948-4da8-bb53-9ace8b3aa256",
+  "name": "heatstroke",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "eb902bd8-f251-4b06-bd60-b2e2ad7f961d",
+  "name": "medicines_heatstroke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1996fc68-19d8-4611-9229-483c05943351",
+          "name": "tell_suggest",
+          "required": false,
+          "dataType": "@tell_suggest",
+          "value": "$tell_suggest",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1)Benzodiazepines\n2)Barbiturates\n3)Phenobarbital"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

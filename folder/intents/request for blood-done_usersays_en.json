@@ -1,0 +1,152 @@
+[
+  {
+    "id": "fb8b3681-b3d8-4647-9d62-a04237c42f84",
+    "data": [
+      {
+        "text": "urgently need blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39b9125d-6d69-4f94-8f0e-e9748ceac03c",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " blood center ",
+        "userDefined": false
+      },
+      {
+        "text": "near",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a933320-3aa8-45d6-a728-bbe15900d881",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " nearest blood center",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "462a9cc4-819a-4a66-8d6c-70ff9b8ca372",
+    "data": [
+      {
+        "text": "i want blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2bd26d3b-acf6-4695-a38c-23645715704b",
+    "data": [
+      {
+        "text": "blood needed urgently",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d02e4a26-3ecc-4fff-b875-f5662b95cabb",
+    "data": [
+      {
+        "text": "urgent need of blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1530f0f3-df02-4ff4-b5e4-3152113b98a6",
+    "data": [
+      {
+        "text": "need blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a79dd278-d84b-4336-8120-185823a2d6ee",
+    "data": [
+      {
+        "text": "i need blood to save my life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce350f26-c6e3-4905-a246-79505f69574c",
+    "data": [
+      {
+        "text": "help me i need blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f48ccb0-33bb-4a68-a396-6707203175b9",
+    "data": [
+      {
+        "text": "i need blood",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

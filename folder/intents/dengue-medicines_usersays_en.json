@@ -1,0 +1,53 @@
+[
+  {
+    "id": "d847125b-df69-461d-bb3a-2554974be61a",
+    "data": [
+      {
+        "text": "suggest",
+        "meta": "@tell_suggest",
+        "alias": "tell_suggest",
+        "userDefined": true
+      },
+      {
+        "text": " me some medicine for dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f87710bf-e82e-40bc-b7ec-68a2bfea4ea2",
+    "data": [
+      {
+        "text": "suggest",
+        "meta": "@tell_suggest",
+        "alias": "tell_suggest",
+        "userDefined": true
+      },
+      {
+        "text": " me some medicines for dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "995d0dc1-7f24-45f9-9bf8-6a882bc7b93a",
+    "data": [
+      {
+        "text": "medicines for dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

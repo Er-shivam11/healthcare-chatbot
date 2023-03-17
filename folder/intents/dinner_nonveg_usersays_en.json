@@ -1,0 +1,28 @@
+[
+  {
+    "id": "29543ccd-afb5-42c5-916f-17244b43ad89",
+    "data": [
+      {
+        "text": "nonveg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d7415ad-efb1-4066-bad7-492fb966f799",
+    "data": [
+      {
+        "text": "non-veg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

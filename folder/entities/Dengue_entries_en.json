@@ -1,0 +1,32 @@
+[
+  {
+    "value": "Headache",
+    "synonyms": [
+      "Headache"
+    ]
+  },
+  {
+    "value": "Nausea",
+    "synonyms": [
+      "Nausea"
+    ]
+  },
+  {
+    "value": "Vomiting",
+    "synonyms": [
+      "Vomiting"
+    ]
+  },
+  {
+    "value": "Swollen glands",
+    "synonyms": [
+      "Swollen glands"
+    ]
+  },
+  {
+    "value": "feverish",
+    "synonyms": [
+      "feverish"
+    ]
+  }
+]

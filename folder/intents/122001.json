@@ -1,0 +1,39 @@
+{
+  "id": "7c8527e5-54dd-4dda-9547-60332ee63a55",
+  "parentId": "a01f601f-6f78-49bd-ae60-5691ba7d0e08",
+  "rootParentId": "a01f601f-6f78-49bd-ae60-5691ba7d0e08",
+  "name": "122001",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospitals.hospitals-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1)DashmeshHospital PNo - 011 25612328\n2)Amarleela  Hospital PNo - 011 25530838\n3)Bhagat  Hospital     PNo - 011 45102030"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

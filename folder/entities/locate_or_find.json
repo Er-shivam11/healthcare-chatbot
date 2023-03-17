@@ -1,0 +1,9 @@
+{
+  "id": "c7431e9c-2eea-4de9-ab22-7e039928b49c",
+  "name": "locate_or_find",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

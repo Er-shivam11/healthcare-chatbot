@@ -1,0 +1,64 @@
+{
+  "id": "64e90af8-e800-479f-8e93-8f5b3f6cb6d8",
+  "name": "viral _fever",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b059ed48-9181-4abd-b8a3-7fc8daf6cba7",
+          "name": "feeling_having_facing",
+          "required": false,
+          "dataType": "@feeling_having_facing",
+          "value": "$feeling_having_facing",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "58562971-b0dd-4d6e-b02a-d59ebf89ca79",
+          "name": "Viralfever",
+          "required": false,
+          "dataType": "@Viralfever",
+          "value": "$Viralfever",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You may have viral fever                                                                                                                                              Remedies:                                                                                                                                              1)A sponge bath\n2)Choose light Clothing\n3)Keep the person hydrated \n4)Proper medication"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

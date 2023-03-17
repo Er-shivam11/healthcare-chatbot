@@ -1,0 +1,60 @@
+[
+  {
+    "id": "f531830e-c39d-4d63-be3a-328be5284a43",
+    "data": [
+      {
+        "text": "i m ",
+        "userDefined": false
+      },
+      {
+        "text": "feeling",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "meta": "@Dengue",
+        "alias": "Dengue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31a7f8a5-f23c-4887-89cb-5de951cb2004",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "feeling",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dengue",
+        "meta": "@Dengue",
+        "alias": "Dengue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

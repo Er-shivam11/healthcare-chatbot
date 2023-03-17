@@ -1,0 +1,60 @@
+[
+  {
+    "id": "4b53317a-8150-48ea-809a-441d6b84cd55",
+    "data": [
+      {
+        "text": "i m ",
+        "userDefined": false
+      },
+      {
+        "text": "feeling",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "viralfever",
+        "meta": "@Viralfever",
+        "alias": "Viralfever",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "059492bf-c367-4c69-a80c-7be95e212a10",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "feeling",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "viralfever",
+        "meta": "@Viralfever",
+        "alias": "Viralfever",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cd0a9e8a-aa40-497e-b866-cbee19295477",
+    "data": [
+      {
+        "text": "medicine for asthma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1887e4ce-de84-44e2-99d1-9d590cad9e8b",
+    "data": [
+      {
+        "text": "asthma medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e53fdef-383d-4536-a253-56f8c8b0fd56",
+    "data": [
+      {
+        "text": "asthma medicines",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e6c7b82-6260-4846-9168-63360a5f46e1",
+    "data": [
+      {
+        "text": "medicines for asthma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44b21dcd-5023-46df-99cd-65eb6f2ea81d",
+    "data": [
+      {
+        "text": "tell me the name of medicines for asthma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

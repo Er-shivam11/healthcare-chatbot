@@ -1,0 +1,9 @@
+{
+  "id": "1e39998e-87e5-43da-aea9-e758a43732ae",
+  "name": "health",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

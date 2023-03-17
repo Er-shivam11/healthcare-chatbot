@@ -1,0 +1,16 @@
+[
+  {
+    "value": "tell",
+    "synonyms": [
+      "tell",
+      "suggest"
+    ]
+  },
+  {
+    "value": "suugest",
+    "synonyms": [
+      "suugest",
+      "tell"
+    ]
+  }
+]

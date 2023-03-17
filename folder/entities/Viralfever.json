@@ -1,0 +1,9 @@
+{
+  "id": "f08a5547-add3-4041-891e-4c94de297601",
+  "name": "Viralfever",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

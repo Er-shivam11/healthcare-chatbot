@@ -1,0 +1,45 @@
+{
+  "id": "cfa71807-ae20-477e-9d2a-263b4912e331",
+  "parentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "rootParentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "name": "dinner",
+  "auto": true,
+  "contexts": [
+    "health_assistant-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "health_assistant.health_assistant-custom",
+      "affectedContexts": [
+        {
+          "name": "dinner-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What is your food preference?                                                                                                                                         Veg or Non-Veg"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

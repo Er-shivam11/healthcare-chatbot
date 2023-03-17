@@ -1,0 +1,45 @@
+{
+  "id": "bfe954be-fb0a-4f19-8d00-4da03ea66707",
+  "parentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "rootParentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "name": "lunch",
+  "auto": true,
+  "contexts": [
+    "health_assistant-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "health_assistant.health_assistant-custom",
+      "affectedContexts": [
+        {
+          "name": "lunch-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What kind of food are looking for?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

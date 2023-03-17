@@ -1,0 +1,39 @@
+{
+  "id": "362cd109-d078-4fdc-9b12-8cf54c4390a2",
+  "parentId": "bfe954be-fb0a-4f19-8d00-4da03ea66707",
+  "rootParentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "name": "lunch-veg",
+  "auto": true,
+  "contexts": [
+    "lunch-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "health_assistant.health_assistant-custom.lunch-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Gobhi Stuffed Roti- 2 piece                                                                                                                                         Red  Gram Dal-1 bowl                                                                                                                                         Capsicum Salad-1 bowl                                                                                                                                         Zeera Raita-1 katori                                                                                                                                         Gazar Methi Aloo Subzi-1 katori"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

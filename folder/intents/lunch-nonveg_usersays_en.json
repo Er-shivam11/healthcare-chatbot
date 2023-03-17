@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4953e74d-c40e-49a8-840f-646ca6a85a25",
+    "data": [
+      {
+        "text": "nonveg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "858e0302-b119-4ea4-b9ea-e71f91420f46",
+    "data": [
+      {
+        "text": "non-veg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

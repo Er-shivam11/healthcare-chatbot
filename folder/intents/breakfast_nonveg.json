@@ -1,0 +1,39 @@
+{
+  "id": "ca53b173-8f28-443e-adb3-383a2e35bb6c",
+  "parentId": "55241afd-9e14-4f48-bfdb-f3b981120d10",
+  "rootParentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "name": "breakfast_nonveg",
+  "auto": true,
+  "contexts": [
+    "breakfast-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "health_assistant.health_assistant-custom.breakfast-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Vegetable Sevian-1 bowl                                                                                                                                                                                                      Double Toned Milk-1 glass                                                                                                                                                                                                      Scrambled Eggs-1 egg                                                                                                                                                                                                      Almond-1 oz"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

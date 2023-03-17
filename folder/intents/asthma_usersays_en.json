@@ -1,0 +1,213 @@
+[
+  {
+    "id": "67da5388-3ced-46c3-891d-0858aa5ee423",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asthma",
+        "meta": "@asthma",
+        "alias": "asthma",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3cfb71f-aa57-4681-91da-e432f3885b47",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asthma",
+        "meta": "@asthma",
+        "alias": "asthma",
+        "userDefined": true
+      },
+      {
+        "text": " what can i do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fee2d23-127b-4306-8b23-31bd0fc9274e",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "have",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asthma",
+        "meta": "@asthma",
+        "alias": "asthma",
+        "userDefined": true
+      },
+      {
+        "text": " what can i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8fd2b9ca-25a8-46b5-a748-2d4e976e6b0b",
+    "data": [
+      {
+        "text": "im ",
+        "userDefined": false
+      },
+      {
+        "text": "facing",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asthma",
+        "meta": "@asthma",
+        "alias": "asthma",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb82f8bb-ac74-4e3d-a407-98f841496f5c",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "facing",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asthma",
+        "meta": "@asthma",
+        "alias": "asthma",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aada3cc0-6e26-41cf-9273-c45ae52d190a",
+    "data": [
+      {
+        "text": "im ",
+        "userDefined": false
+      },
+      {
+        "text": "having",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asthma",
+        "meta": "@asthma",
+        "alias": "asthma",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a87d9b7e-1587-41ed-b439-742becf3dde9",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "having",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "asthma",
+        "meta": "@asthma",
+        "alias": "asthma",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

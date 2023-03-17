@@ -1,0 +1,80 @@
+[
+  {
+    "id": "106e2d57-741a-424d-9140-58db56a6186b",
+    "data": [
+      {
+        "text": "suggest me healthy food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87818be9-3d5d-40d7-a26f-c22aa5c25c65",
+    "data": [
+      {
+        "text": "healthy food suggestions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d61552bd-7493-4d35-a263-f735435e99a8",
+    "data": [
+      {
+        "text": "healthy food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1c44fd9-3e7b-428e-8f7e-3a5e4f8481cb",
+    "data": [
+      {
+        "text": "need sugggestions for healthy food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6ad4a5a-0029-4453-9ca5-4ec441794c35",
+    "data": [
+      {
+        "text": "i need healthy food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "968eaeab-cb0e-4b5e-b835-9abeb79b7d1d",
+    "data": [
+      {
+        "text": "suugest me food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

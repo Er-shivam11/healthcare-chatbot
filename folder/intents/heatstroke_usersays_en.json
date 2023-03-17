@@ -1,0 +1,60 @@
+[
+  {
+    "id": "e72c931a-a1fd-4489-a7df-de11b961c921",
+    "data": [
+      {
+        "text": "i m ",
+        "userDefined": false
+      },
+      {
+        "text": "facing",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heatstroke",
+        "meta": "@heatstroke",
+        "alias": "heatstroke",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a392a47d-5186-43d7-b00a-6641d6192f81",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "facing",
+        "meta": "@feeling_having_facing",
+        "alias": "feeling_having_facing",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "heatstroke",
+        "meta": "@heatstroke",
+        "alias": "heatstroke",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

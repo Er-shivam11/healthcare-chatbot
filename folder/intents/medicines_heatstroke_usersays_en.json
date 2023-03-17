@@ -1,0 +1,61 @@
+[
+  {
+    "id": "45f729a0-ce21-41f2-8d37-7fe0954e6cb5",
+    "data": [
+      {
+        "text": "suggest",
+        "meta": "@tell_suggest",
+        "alias": "tell_suggest",
+        "userDefined": false
+      },
+      {
+        "text": " me some medicines for heatstroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2080cf1c-7c5a-4562-9a30-b5ed7aad8a95",
+    "data": [
+      {
+        "text": "suggest",
+        "meta": "@tell_suggest",
+        "alias": "tell_suggest",
+        "userDefined": false
+      },
+      {
+        "text": " me some ",
+        "userDefined": false
+      },
+      {
+        "text": "medicine for",
+        "userDefined": false
+      },
+      {
+        "text": " heatstroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9281227-fad2-47e0-9b61-ccafe9fcc231",
+    "data": [
+      {
+        "text": "medicines for heatstroke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

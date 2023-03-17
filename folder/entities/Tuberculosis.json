@@ -1,0 +1,9 @@
+{
+  "id": "6d17c621-f1df-4a59-ae27-6e66b2f0ab5e",
+  "name": "Tuberculosis",
+  "isOverridable": true,
+  "isEnum": true,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

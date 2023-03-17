@@ -1,0 +1,39 @@
+{
+  "id": "ecacd165-fb0b-4d70-9993-5a655aaa6f6e",
+  "parentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "rootParentId": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "name": "110064-doctors",
+  "auto": true,
+  "contexts": [
+    "doctors-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "doctors.doctors-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "i)Dr.Sonia Rawat    - 09560487335\n            ii)Dr.Seema Sehgal  - 09811078189\n            iii)Dr.Rita Arora   - 011 28122653\n            iv)Dr.Pardeep Batra - 09818587998-doctor"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

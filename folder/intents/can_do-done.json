@@ -1,0 +1,35 @@
+{
+  "id": "d25f3004-9c62-4614-b745-26142d55c797",
+  "name": "can_do-done",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I can help you to ease your life,\nYou can request for blood,book appointment, find government-run nutrition centers ,can easily find disease and their remedies by entering symptoms,find best doctors and hospital near you,get info about free health-camps, and many more."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "68befeb5-b992-4ab6-94e4-95280a209841",
+  "parentId": "a01f601f-6f78-49bd-ae60-5691ba7d0e08",
+  "rootParentId": "a01f601f-6f78-49bd-ae60-5691ba7d0e08",
+  "name": "110046",
+  "auto": true,
+  "contexts": [
+    "hospitals-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "i)Lotus Hospital        PhNo.- 011 45467700                                                               ii)Jasrotia Hospital   PhNo.- 01125496525"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

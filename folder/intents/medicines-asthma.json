@@ -1,0 +1,52 @@
+{
+  "id": "9a1d4f87-08ed-4c79-aa65-0b1024ef1287",
+  "name": "medicines-asthma",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "items": [
+            {
+              "description": "",
+              "textToSpeech": "1 Albuterol (ProAir HFA, Proventil HFA, Ventolin HFA)                                                                                                                                                                                2  Levalbuterol (Xopenex HFA)",
+              "displayText": "",
+              "footer": "",
+              "ssml": ""
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "1 Albuterol (ProAir HFA, Proventil HFA, Ventolin HFA)                                                                                                                                                                                2  Levalbuterol (Xopenex HFA)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

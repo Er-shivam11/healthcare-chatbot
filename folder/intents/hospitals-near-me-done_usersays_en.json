@@ -1,0 +1,138 @@
+[
+  {
+    "id": "9f2ba548-3af6-45ef-9644-26c94a20b7e6",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " nearest and best hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9a2e373-6e37-4b4b-abde-5e412487ff2c",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " nearest hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ac18ea0-7152-4aa2-ac2d-8a0c0f3fa12b",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " best hospitals near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ca29c1a-f1b0-4a08-9732-a75ab68ded19",
+    "data": [
+      {
+        "text": "find",
+        "meta": "@locate_or_find",
+        "alias": "locate_or_find",
+        "userDefined": false
+      },
+      {
+        "text": " best hospital ",
+        "userDefined": false
+      },
+      {
+        "text": "near",
+        "userDefined": false
+      },
+      {
+        "text": " me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c46d510-4c34-4705-a286-27746078107f",
+    "data": [
+      {
+        "text": "hospitals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e141651-6b2e-4378-a1a5-a1a56c984d2a",
+    "data": [
+      {
+        "text": "best hospitals near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ce2886e-c47d-458f-be03-66439c283b4f",
+    "data": [
+      {
+        "text": "hospital near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d20261b-1fc3-4553-9d80-90132145d069",
+    "data": [
+      {
+        "text": "locate hospitals near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

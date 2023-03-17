@@ -1,0 +1,67 @@
+[
+  {
+    "id": "0781f267-307e-4840-a311-2cb240deaa78",
+    "data": [
+      {
+        "text": "stomach infection medicine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5c8c75c-c09a-4cb7-b9c9-7a31ae61cafc",
+    "data": [
+      {
+        "text": "medicine for stomach infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e1b0f50-776f-424d-9393-e4a868742e67",
+    "data": [
+      {
+        "text": "tell me the name of medicines for stomach infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac409f29-1e73-4ebe-b4bf-c32cf89d17f8",
+    "data": [
+      {
+        "text": "medicines for stomach infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6f9668d-c832-4949-9251-121af33d2bda",
+    "data": [
+      {
+        "text": "tell me the name of medicines for stomach-infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

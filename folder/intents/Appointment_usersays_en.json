@@ -1,0 +1,36 @@
+[
+  {
+    "id": "79361b6e-03cc-4fb3-ad6f-73adccddcd49",
+    "data": [
+      {
+        "text": "book an appointment ",
+        "userDefined": false
+      },
+      {
+        "text": "at 4pm on sunday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5171e49-6c5a-4e4a-8c8c-225099083f04",
+    "data": [
+      {
+        "text": "set an appointment on ",
+        "userDefined": false
+      },
+      {
+        "text": "friday at 2pm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

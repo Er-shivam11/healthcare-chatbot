@@ -1,0 +1,45 @@
+{
+  "id": "c8d57948-3743-4198-a56c-1ac3ed3b8740",
+  "parentId": "cfa71807-ae20-477e-9d2a-263b4912e331",
+  "rootParentId": "1a23fda2-40af-46ee-8f55-b62b7956e202",
+  "name": "dinner_nonveg",
+  "auto": true,
+  "contexts": [
+    "dinner-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "health_assistant.health_assistant-custom.dinner-custom",
+      "affectedContexts": [
+        {
+          "name": "dinner-custom-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Grilled Chicken-2 katori                                                                                                                                         Onion Tomato Capsicum Salad-1 bowl                                                                                                                                         Brinjal Curry_1 katori"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

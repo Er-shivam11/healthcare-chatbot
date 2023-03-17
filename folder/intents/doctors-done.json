@@ -1,0 +1,122 @@
+{
+  "id": "eaba7a40-26cd-4863-a7d9-49284987269f",
+  "name": "doctors-done",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "doctors-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0d932f04-b7c9-4e97-856b-09984daa5b7a",
+          "name": "pincode",
+          "required": true,
+          "dataType": "@sys.location",
+          "value": "$pincode",
+          "defaultValue": "ok tell me your address",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "tell me your pincode"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b5864ef0-0c0a-4059-87e9-aebd0251622e",
+          "name": "phonenumber",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phonenumber",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "tell me your contact number"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "439307c7-b796-4fb6-bf03-c590f8f106b8",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4c5b05e1-5a79-49cd-a2a0-21678771bc31",
+          "name": "phone-number",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "66564080-3cac-4127-897d-68f41858e2a1",
+          "name": "address",
+          "required": true,
+          "dataType": "@sys.street-address",
+          "value": "$address",
+          "defaultValue": "ok...will be there in 15 to 20 min",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OK , Doctor will be there in few minutes and contact you soon."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
